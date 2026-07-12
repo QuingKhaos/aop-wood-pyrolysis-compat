@@ -1,3 +1,5 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2026-07-12
+  Features:
+    - Assign several Wood Pyrolisis recipes to Age of Production buildings.
